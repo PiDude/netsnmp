@@ -1,10 +1,16 @@
 
 import netsnmp
-import datetime
+from datetime import datetime
 
 
 
 f=open('testresult', 'a')
+
+f.write("\n\n\n")
+sttime = datetime.now().strftime('%Y%m%d_%H:%M:%S -')
+f.write(sttime + '\n')
+f.write("\n")
+
 
 host_ipa="10.10.10.10"
 comm_string="public01"
@@ -13,11 +19,11 @@ comm_string="public01"
 session=netsnmp.Session(Version=2, Community=comm_string, DestHost=host_ipa, UseNumeric=1)
 
 # pull MAC addresses of registered modems
-macoid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.2.1.10.127.1.3.3.1.2.1"))
-result0=session.walk(macoid)
-print result0
+oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.2.1.10.127.1.3.3.1.2.1"))
+result=session.walk(oid)
+print result
 
-s=str(result0)
+s=str(result)
 f.write(s)
 f.write("\n")
 
@@ -26,6 +32,7 @@ oid1=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.2.1.10.127.1.3.3.1.10"))
 result=session.walk(oid1)
 print result
 
+f.write("total codewords\n")
 s=str(result)
 f.write(s)
 f.write("\n")
@@ -36,6 +43,7 @@ oid2=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.2.1.10.127.1.3.3.1.11"))
 result2=session.walk(oid2)
 print result2
 
+f.write("corrected codewords\n")
 s=str(result2)
 f.write(s)
 f.write("\n")
@@ -48,10 +56,13 @@ result3=session.walk(oid3)
 print result3
 
 
-
-f.write("this is a test\n")
+f.write("uncorrectables\n")
 s=str(result3)
 f.write(s)
+f.write("\n")
+
+
+
 
 f.close()
 
