@@ -1,11 +1,25 @@
 #!/bin/bash
 
 
-# get mac addresses
+# get mac addresses from RFC 4546
 snmpwalk -v 2c -c public01 -On 10.10.10.10 .1.3.6.1.2.1.10.127.1.3.3.1.2.1
 
 echo
 echo
+
+# get mac address from DOCS-IF3-MIB
+snmpwalk -v 2c -c public01 -On 10.10.10.10 .1.3.6.1.4.1.4491.2.1.20.1.3.1.2
+
+echo
+echo
+
+
+# get registration status from DOCS-IF3-MIB
+snmpwalk -v 2c -c public01 -On 10.10.10.10 .1.3.6.1.4.1.4491.2.1.20.1.3.1.6
+
+echo
+echo
+
 
 # get total codewords
 snmpwalk -v 2c -c public01 -On 10.10.10.10 .1.3.6.1.2.1.10.127.1.3.3.1.10

@@ -1,99 +1,152 @@
 
 test results
 
-20170501_16:34:09 -
-()
-('56957127', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35103', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-20170501_16:34:35 -
-()
-('56957127', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35103', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')20170501_16:35:28 -
+
+
+
+
+20170503_14:12:49 -
 
 ()
-('57078480', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35111', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')20170501_16:36:37 -
-()
-('57199823', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35119', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')20170501_16:37:24 -
-
-()
-('57321169', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35127', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-
-20170501_16:39:09 -
-
-()
-('57563878', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35143', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-
-20170501_16:39:38 -
-
-()
-('57563878', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35143', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-
-20170501_16:39:59 -
-
-()
-('57685272', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-('35151', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-this is a test
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
-
-20170501_16:41:21 -
-
+MAC addresses from DOCS-IF3-MIB
 ()
 total codewords
-('57804615', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+()
 corrected codewords
-('35159', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+()
 uncorrectables
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+()
 
 
-20170501_16:42:47 -
+
+20170503_15:42:40 -
 
 ('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
 total codewords
-('58047337', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('2703531', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 corrected codewords
-('35175', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('67941', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 uncorrectables
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('127800', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 
 
-20170501_16:43:36 -
 
-()
+20170503_15:46:36 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
 total codewords
-('58047337', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('6817596', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 corrected codewords
-('35175', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('89239', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 uncorrectables
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('155191', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 
 
-20170501_16:45:40 -
 
-()
+20170503_16:42:56 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
 total codewords
-('58290054', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('19491136', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 corrected codewords
-('35191', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('690', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
 uncorrectables
-('196', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+('135684', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:44:02 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:45:58 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('196047', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('17', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('1812', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:50:46 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('12208290', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('57', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('1827', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:51:28 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('12208290', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('57', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('1827', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:51:48 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('12208466', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('65', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('1827', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+
+
+
+20170503_16:53:54 -
+
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+MAC addresses from DOCS-IF3-MIB
+('\xe0\xca\x94\x85yg', '\xfcR\x8d^\x8c\xc1', '\x08\xebt\xbc\x0b\xb4', '\x08\xebt\xbc\x0c ', '\xfcJ\xe9\t\xee\xe3', '\xfcR\x8d^\x8c\x94', '\xfcR\x8d^\x8cy', '\xfcR\x8d^\x88\x02', '\x08\xebt\xbc\x0b\xd8', '\x08\xebt\xbc\x0c\xa4', '\xfcR\x8d^\x8c(', '\x08\xebt\xbc\x0c\x8c', '\xfcR\x8d^\x8f\xfd', '\\\xe3\x0ep\xe1y', '\xe0\xca\x94\x86y\xa4', '\xfcR\x8d^\x95L', '\xfcR\x8d^\x90*', '\xfcR\x8d^\x8c\xaf', '\xfcR\x8d^\x88e', '\x08\xebt\xbc\x0b\xc0', '\x00P\xf1\x12\xd8\x94', '\xfcJ\xe9\t\xee\xb3', '\xf0\xf2I\xd0\xdeP', '\xfcJ\xe9\t\xee\xfb', '\xfcJ\xe9\t\xee\xb6', '\xdc\xef\t\xff]\x90', '\xfcJ\xe9\t\xee\xbf', '\xdc\xef\t\xff]\xb0', '\xdc\xef\t\xff]p', '\xdc\xef\t\xff^ ', '\x08\xebt\xbc\x0c\x08', '\x08\xebt\xbc\x0c\x14', '\xfcJ\xe9\t\xee\xad', '\x08\xebt\xbc\x0c\x98', '\x08\xebt\xbc\x0c\xb0', '\x00P\xf1\x12\xd8\x80')
+Registration Status()
+total codewords
+('12208819', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+corrected codewords
+('81', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
+uncorrectables
+('1827', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')
