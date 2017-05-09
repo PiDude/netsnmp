@@ -199,9 +199,9 @@ f.close()
 # calculate delta of total codewords
 
 for i in range (0, h):
-    matrix[i][4]  = matrix[i][2] - matrix[i][3]
-    matrix[i][7]  = matrix[i][5] - matrix[i][6]
-    matrix[i][10] = matrix[i][8] - matrix[i][9]
+    matrix[i][4]  = int(matrix[i][2]) - int(matrix[i][3])
+    matrix[i][7]  = int(matrix[i][5]) - int(matrix[i][6])
+    matrix[i][10] = int(matrix[i][8]) - int(matrix[i][9])
 
 
 #open a new .csv file to write the matrix into, this is openable with Excel.
