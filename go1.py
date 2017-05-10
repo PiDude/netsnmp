@@ -69,7 +69,6 @@ for item in result:
 w = 11
 h = len(result)
 
-print "\nThere are ", h, " registered modems\n\n"
 
 matrix = [[0 for x in range(w)] for y in range(h)]
 
@@ -77,6 +76,11 @@ matrix = [[0 for x in range(w)] for y in range(h)]
 
 for i, item in enumerate(maclist1, start=0):
     matrix[i][0] = item
+
+
+
+
+
 
 # write the mac addresses to the local file
 f.write("MAC addresses from DOCS-IF3-MIB\n")
@@ -88,9 +92,20 @@ f.write("\n")
 oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.20.1.3.1.6"))
 regstat=session.walk(oid)
 
+number_of_reg_modems=0
+
 # put regstat in second column of matrix used for .csv file
 for i, item in enumerate(regstat, start=0):
     matrix[i][1] = item
+    if matrix[i][1] == '8':
+        number_of_reg_modems += 1
+
+# count the number of modems that are actually registered (status = 8)
+
+print "\nThere are ", number_of_reg_modems, " registered modems\n\n"
+
+
+
 
 # write regstat to the local file
 f.write("Registration Status\n")
