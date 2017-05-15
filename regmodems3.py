@@ -5,25 +5,12 @@ from netaddr import *
 from datetime import datetime
 import csv
 import time
-import pyttsx
+
 
 
 #info for the target CMTS
 host_ipa="10.10.10.10"
 comm_string="public01"
-
-
-# enable speech to text in a function called "say"
-
-def say(s):
-    engine = pyttsx.init()
-    rate = engine.getProperty('rate')
-    rate = 150
-    engine.setProperty('rate', rate)
-    voices = engine.getProperty('voices')
-    engine.setProperty('voice', 'english-us')
-    engine.say(s)
-    a = engine.runAndWait()
 
 
 # set up netsnmp session for that CMTS
@@ -76,14 +63,7 @@ try:
 
         # print the number of modems that are actually registered (status = 8)
         print sttime, ":there are ", number_of_reg_modems, " registered modems     ", elapsed_time 
-
-
-        #use the pyttsx function called "say" to say the number of registered modems
-        say(number_of_reg_modems)
-
         time.sleep(5)
-
-
 
 except KeyboardInterrupt:
     print "   keyboard interrupt !!"
