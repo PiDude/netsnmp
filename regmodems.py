@@ -81,7 +81,7 @@ try:
         #use the pyttsx function called "say" to say the number of registered modems
         say(number_of_reg_modems)
 
-        time.sleep(5)
+        time.sleep(8)
 
 
 
