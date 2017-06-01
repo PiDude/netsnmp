@@ -99,17 +99,17 @@ iplist1=[]
 IPv4oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.20.1.3.1.5"))
 IPv4result=session.walk(IPv4oid)
 
-print(IPv4result)
+#print(IPv4result)
 
 
 for i, item in enumerate(IPv4result, start=0):
-    print(item)
+#    print(item)
     v = ipaddress.ip_address(item).exploded
-    print(v)
+ #   print(v)
     iplist1.append(v)
     matrix[i][2] = v
 
-print(iplist1)
+#print(iplist1)
 
 
 #write IP addresses to local file
@@ -119,8 +119,31 @@ f.write(s)
 f.write("\n")
 
 
-# close the local file
-f.close()
+
+#get recieve MER from CMTS for each modem
+cmts_rx_mer_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.4.1.2"))
+cmts_rx_mer_result=session.walk(cmts_rx_mer_oid)
+
+
+print()
+print("these are the RX MERs at CMTS")
+print(cmts_rx_mer_result)
+
+for i, item in enumerate(cmts_rx_mer_result, start=0):
+    matrix[i][3] = item
+
+
+
+
+
+#get CMTS downstream Tx power
+cmts_tx_power_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.22.1.3"))
+cmts_tx_power_result=session.walk(cmts_tx_power_oid)
+
+print("\n")
+print("this is the CMTS transmit power")
+print(cmts_tx_power_result)
+print("\n")
 
 
 
@@ -130,15 +153,29 @@ f.close()
 
 
 
+print("\n")
+print("printing CM xmit power and RX mer")
+print("\n")
 
 
 for item in iplist1:
     print("printing item")
-    print(item)
+#    print(item)
     session=netsnmp.Session(Version=2, Community=cm_comm_string, DestHost=item, UseNumeric=1)
-    oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.1"))
-    result=session.walk(oid)
+    cm_xmit_power_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.13.1.10"))
+    result=session.walk(cm_xmit_power_oid)
     print(result)
+    
+    cmts_rx_mer_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.4.1.2"))
+    result=session.walk(cmts_rx_mer_oid)
+    print(result)
+
+
+
+
+#close that local file
+f.close()
+
 
 
 #open a new .csv file to write the matrix into, this is openable with Excel.
