@@ -127,10 +127,15 @@ cmts_rx_mer_result=session.walk(cmts_rx_mer_oid)
 
 print()
 print("these are the RX MERs at CMTS")
-print(cmts_rx_mer_result)
 
-for i, item in enumerate(cmts_rx_mer_result, start=0):
+
+for i, item in enumerate(cmts_rx_mer_result, start = 0):
+    item = int(item)/100
     matrix[i][3] = item
+    print(item)
+
+
+
 
 
 
@@ -159,16 +164,27 @@ print("\n")
 
 
 for item in iplist1:
-    print("printing item")
-#    print(item)
+
     session=netsnmp.Session(Version=2, Community=cm_comm_string, DestHost=item, UseNumeric=1)
     cm_xmit_power_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.13.1.10"))
-    result=session.walk(cm_xmit_power_oid)
-    print(result)
-    
-    cmts_rx_mer_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.4.1.2"))
-    result=session.walk(cmts_rx_mer_oid)
-    print(result)
+    cm_xmit_power_result=session.walk(cm_xmit_power_oid)
+
+    for i, item in enumerate(cm_xmit_power_result, start = 0):
+        item = int(item)/10
+        matrix[i][4] = item
+        print("cm xmit power")
+        print(item)
+
+
+    cm_rx_power_oid=netsnmp.VarList(netsnmp.Varbind(".1.3.6.1.4.1.4491.2.1.28.1.11.1.3"))
+    cm_rx_power_result=session.walk(cm_rx_power_oid)
+
+    for i, item in enumerate(cm_rx_power_result, start = 0):
+        item = int(item)
+        matrix[i][5] = item
+        print("cm rx power")
+        print(item)
+
 
 
 
