@@ -66,7 +66,7 @@ for item in result:
     maclist1.append(mac)
 
 # create a 2D list that will be used to store the data in a .csv file
-w = 11
+w = 12
 h = len(result)
 
 
@@ -185,7 +185,7 @@ result2=session.walk(oid2)
 
 # write post- corrected codewords in sixth column of matrix to be used for .csv file
 for i, item in enumerate(result2, start=0):
-    matrix[i][5]=int(item)
+    matrix[i][5] = int(item)
 
 #write pre- corrected codewords to local file
 f.write("post- corrected codewords\n")
@@ -219,6 +219,13 @@ for i in range (0, h):
     matrix[i][4]  = int(matrix[i][2]) - int(matrix[i][3])
     matrix[i][7]  = int(matrix[i][5]) - int(matrix[i][6])
     matrix[i][10] = int(matrix[i][8]) - int(matrix[i][9])
+
+    sum_of_codewords = matrix[i][4] + matrix[i][7] + matrix[i][10]
+
+        if sum_of_codewords = 0;
+            sum_of_codewords = 1
+
+    matrix[i][11] = matrix[i][10] / sum_of_codewords
 
 
 #open a new .csv file to write the matrix into, this is openable with Excel.
